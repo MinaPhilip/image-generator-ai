@@ -28,9 +28,8 @@ Features:
 
 
 ## 🖼️ Images for UI
-<img width="1080" height="2400" alt="Screenshot_1754571473" src="https://github.com/user-attachments/assets/237d8c5e-8813-474a-b541-d7ac4f6b1824" />
-<img width="1080" height="2400" alt="Screenshot_1754571476" src="https://github.com/user-attachments/assets/e5c4e2cf-e635-455c-9f15-9affaaf6817b" />
-<img width="1080" height="2400" alt="Screenshot_1754571504" src="https://github.com/user-attachments/assets/db133d9b-3a51-4f18-9db3-b2e2424e3de6" />
+
+<img width="1280" height="720" alt="فن قبطي (YouTube Thumbnail)" src="https://github.com/user-attachments/assets/17929380-53d7-4659-adcb-53b243fc021a" />
 
 ## ☢️ Usage
 
