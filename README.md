@@ -1,17 +1,52 @@
-# ai_app
+# 📕 Image Generator AI
 
-ai app
+## 🚀 Getting Started
 
-## Getting Started
+Description:
+This is an innovative AI-powered application designed to generate digital representations of Egyptian Orthodox Christian icons. The app aims to preserve the sacredness of Coptic saints and honor the Orthodox traditions, while utilizing modern tools to assist artists, clergy, and believers in visualizing holy images.
 
-This project is a starting point for a Flutter application.
+Features:
+🎨 Generate icons of saints based on Coptic Orthodox style and tradition.
 
-A few resources to get you started if this is your first Flutter project:
+🌐 Uses MyMemory Translation API to translate the user’s prompt from Arabic (or other languages) into English.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🤖 Integrates a lightweight AI image generation model hosted on Hugging Face.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# image-generator-ai
+📤 Sends the resulting AI-generated image to the user.
+
+🛑 The app is currently lightweight and free, and the AI model lacks proper training, so the results are not highly accurate or refined yet.
+
+## 🤳 Screens
+
+- **Splash Screen:** . 
+- **AI page** .
+
+
+## 📁 File Structure
+
+![alt text](image.png)
+
+
+## 🛠 Video for UI
+
+## ☢️ Usage
+
+1. **Clone the repository**
+
+2. **Open the project in your preferred Flutter IDE.**
+
+3. **Explore the `lib` directory:**
+
+    - Review the project structure to understand the core of the app.
+    - Customize the app of your need.
+
+4. **Run the app on an emulator or physical device:**
+
+    ```bash
+    flutter run
+    ```
+
+## 🚨 Contributing
+
+- Contributions are welcome 💜
+- If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
